@@ -3,6 +3,12 @@
 Este projeto é uma aplicação web do tipo **SPA (Single Page Application)** desenvolvida para representar a atuação da ONG Raízes do Amanhã. A interface apresenta informações institucionais, projetos sociais e um formulário de cadastro para voluntários.  
 **Esta atividade faz parte da disciplina de Desenvolvimento Front-End Para Web da Faculdade Cruzeiro do Sul.**
 
+## 🌐 Site publicado
+
+Acesse aqui:  
+👉 [https://cleuvesilvaj.github.io/Projeto_ONG_Entrega-III/](https://cleuvesilvaj.github.io/Projeto_ONG_Entrega-III/)
+
+
 ---
 
 ## 📁 Estrutura de Pastas
